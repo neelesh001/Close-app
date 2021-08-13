@@ -1,0 +1,7 @@
+{
+  "name": "close-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
